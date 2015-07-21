@@ -6,7 +6,7 @@
 
 <hibernate-configuration>
     <session-factory>
-        <mapping class="cn.petech.model.User"/>
-        <mapping class="cn.petech.model.Role"/>
+        <!--<mapping class="cn.petech.model.User"/>-->
+        <!--<mapping class="cn.petech.model.Role"/>-->
     </session-factory>
 </hibernate-configuration>

@@ -132,7 +132,11 @@
           <element id="library" level="project" name="Maven: ro.isdc.wro4j:wro4j-core:1.7.2" />
           <element id="library" level="project" name="Maven: struts-menu:struts-menu:2.4.3" />
           <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.2.3" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-web:1.2.3" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-spring:1.2.3" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.15" />
+          <element id="library" level="project" name="Maven: org.apache.shiro:shiro-quartz:1.2.3" />
+          <element id="library" level="project" name="Maven: org.opensymphony.quartz:quartz:1.6.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">

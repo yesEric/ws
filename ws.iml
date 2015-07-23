@@ -27,6 +27,8 @@
           <file>file://$MODULE_DIR$/src/main/resources/applicationContext-dao.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/applicationContext-resources.xml</file>
           <file>file://$MODULE_DIR$/src/main/resources/applicationContext-service.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-config.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/spring-config-shiro.xml</file>
         </fileset>
       </configuration>
     </facet>
@@ -186,6 +188,8 @@
     <orderEntry type="library" name="Maven: ro.isdc.wro4j:wro4j-core:1.7.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: struts-menu:struts-menu:2.4.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.shiro:shiro-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-web:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-spring:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:druid:1.0.15" level="project" />
     <orderEntry type="module-library">
       <library name="Maven: com.alibaba:jconsole:1.8.0">
@@ -205,5 +209,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: org.apache.shiro:shiro-quartz:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.opensymphony.quartz:quartz:1.6.1" level="project" />
   </component>
 </module>

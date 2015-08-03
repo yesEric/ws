@@ -29,28 +29,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/cn/petech/spring/CustomDefaultFilterChainManager.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/cn/petech/spring/CustomPathMatchingFilterChainResolver.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/cn/petech/spring/SpringUtils.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/ApplicationResources.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/ApplicationResources_zh.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/ApplicationResources_zh_CN.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/applicationContext-dao.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/applicationContext-resources.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/displaytag.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/displaytag_zh.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/displaytag_zh_CN.properties" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/resources/ehcache.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/errors.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/errors_zh.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/errors_zh_CN.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/hibernate.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/jdbc.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/main/resources/struts.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/test/resources/applicationContext-resources.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/test/resources/applicationContext-test.xml" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/test/resources/hibernate.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/test/resources/jdbc.properties" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/test/resources/mail.properties" charset="GBK" />
   </component>
 </project>
